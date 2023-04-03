@@ -1,3 +1,1 @@
 print('name')
-print('surname')
-
