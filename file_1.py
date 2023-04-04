@@ -1,2 +1,2 @@
-print('my surname')
+print('surname')
 
